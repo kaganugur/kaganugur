@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kaganugur&show_icons=true">
 
-# Merhaba, ben Kağan Uğur! 
+# Merhaba, ben Kağan! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaganugur" alt="kaganugur" /> </p>
 
 [![](https://img.shields.io/twitter/follow/kaganugurr?style=social)](https://www.twitter.com/kaganugurr)
